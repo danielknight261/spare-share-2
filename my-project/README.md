@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Plan
+
+Front End:
+
+Task 1 - NavBar
+
+Task 2 - HomePage and main image with search nav within it
+
+
+
+Back End:
+
+Ability to create profiles
+add listings 
+remove listings 
+take payments 
+single listing account multiple listing account. 
+
+
